@@ -1,0 +1,16 @@
+<id:c1>[Contexto: la siguiente oración se dice en un reportaje sobre una famosa diva.]
+<id:o1>Más hombres amaba, menos tiempo tenía para admirarlos.
+<id:c2>[Contexto: la siguiente oración se dice en un artículo sobre el comportamiento de otros partidos políticos ante Vox.]
+<id:o2>Tanto se enfatiza la beligerancia ante Vox cuanto Vox recupera pulso político.
+<id:c3>[Contexto: la siguiente oración se dice en un artículo sobre las tertulias políticas en la televisión.]
+<id:o3>Más un programa se acerca al prime time, más tiende a cruzarse la línea roja del infoespectáculo.
+<id:c4>[Contexto: la siguiente oración se dice en una crónica sobre los equipos de fúbol madrileños en la temporada pasada.]
+<id:o4>Cuanto peor le van las cosas al Madrid, mejor le van al Atlético.
+<id:c13>[Contexto: la siguiente oración se dice en un reportaje sobre una famosa diva.]
+<id:o13>Cuantos más hombres amaba, menos tiempo tenía para admirarlos.
+<id:c14>[Contexto: la siguiente oración se dice en un artículo sobre el comportamiento de otros partidos políticos ante Vox.]
+<id:o14>Tanto se enfatiza la beligerancia ante Vox, tanto Vox recupera pulso político.
+<id:c15>[Contexto: la siguiente oración se dice en un artículo sobre las tertulias políticas en la televisión.]
+<id:o15>Cuanto más un programa se acerca al prime time, más tiende a cruzarse la línea roja del infoespectáculo.
+<id:c16>[Contexto: la siguiente oración se dice en una crónica sobre los equipos de fúbol madrileños en la temporada pasada.]
+<id:o16>Peor le van las cosas al Madrid, mejor le van al Atlético.

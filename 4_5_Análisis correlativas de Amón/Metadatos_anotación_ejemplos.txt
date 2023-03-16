@@ -1,0 +1,85 @@
+Anotación de los ejemplos
+
+1. cor_manual: 
+	1.1. amonesca (sin introductor)
+	1.2. normal (subordinada primero)
+	1.3. inversa (principal primero)
+	1.4. interesante (no es correlativa proporcional, pero puede ser interesante)
+	1.5. dudosa: interpretación ambigua (sale solo en los datos del CORPES XXI)
+2. Cita_traducción: 
+	2.1. no: la produce Amón
+	2. 2 cita de memoria: es una cita de alguien que la produce en español, pero dice que no la ha mirado, sino que la recuerda
+	2.3 traduce_francés: es una cita de alguien que dijo la oración originariamente en francés
+	2.4 cita_fr: es una cita de alguien que lo dice en Español pero que tiene el francés como lengua materna o principal
+	2.5 cita: es una cita de alguien que la produce en español
+3. Interrumpida:
+	3.1. no: la oración está completa
+	3.2. Interrumpida: la correlativa no está completa, le falta un comparativo en uno de los dos elementos
+4. Introductor: el subordinante que llevan (cuanto, cuando, si, a). NA = ninguno (correlativa amonesca)
+5. Comparativos: los comparativos que aparecen en cada oración (por orden de aparición). Separados por guión bajo. Si hay tres oraciones, se indica la conjunción cordinante donde corresponda (no siempre hay; en ese caso se interpreta que la coordinación se da en el segundo miembro: si no es así, separo los que van juntos por guión)
+6. Modificados: categoría gramatical del elemento modificado por el comparativo en cada oración (por orden de aparición). Separados por guión bajo y con el mismo criterio que en comparativos.
+	A veces aparece el comparativo separado del elemento sobre el que incide, en esos casos hay una lectura de modificación oracional además de la de modificación nominal o adjetival que corresponda; indico las dos por medio de una barra. Solo si bastaría con cambiar el orden de los constituyentes, no si habría que quitar artículos, etc.
+	6.1: Adj (adjetivo, incluye los usos de mejor, peor, mayor, menor en el caso de que no modifiquen a un N explícito)
+	6.2: Adv (adverbio)
+	6.3: N (sustantivo)
+	6.4: V (verbo, no necesariamente como complemento, frecuentemente es modificación oracional, externa). *Antes* lo considero como modificador verbal.
+	6.5: Sprep (sintagmas preposicionales)
+7. Función_Scomp_prótasis / Función_Scomp_apódosis: en las amonescas, prótasis la primera, apódosis la segunda. Para la coordinación se siguen las mismas normas que en Comparativos; para la doble función si hay separación, las de Modificados.
+	7.1: Atr (atributo)
+	7.2: CC
+	7.3: OD
+	7.4: Ptvo
+	7.5: S
+	7.6: si la oración no tiene verbo, se pone NA aquí
+8. SV_prótasis / SV_apódosis: Lo importante es la posición del sujeto respecto del verbo, pero también si hay cosas entre el comparativo y el verbo o si el comparativo no aparece en posición inicial (en las inversas)
+	Si son dos oraciones coordinadas, separo los órdenes de cada una con /
+	Si es una pasiva refleja, considero S a P.
+	8.1. V: tras el comparativo solo viene el verbo (con sus clíticos). También si el comparativo cumple la función de sujeto
+	8.2. V_: tras el comparativo viene el verbo seguido de otros elementos, no el sujeto
+	8.3: _V: antes del verbo aparecen otros elementos (no el sujeto, salvo que este sea el comparativo, claro)
+ 	8.4. SV: el sujeto se antepone al verbo (puede que vengan cosas después o entre medias) 
+	8.5. VS: el sujeto se pospone al verbo (puede que vengan cosas después o entre medias) 
+ 	8.6. _VS: sujeto pospuesto, pero con algo entre comparativo y verbo
+	8.7. sin verbo: es una oración sin verbo
+ 	8.8. VComp: El comparativo aparece tras el verbo
+ 	8.9. SVComp: El comparativo aparece tras el sujeto y el verbo
+	8.10. Comp_V_Comp_S: El comparativo está dividido (es una mixta)
+	8.11. VimpComp: Verbo impersonal antes del comparativo
+	8.12. impersonal: el verbo es haber u otro impersonal
+	8.13. SCompV: El comparativo está entre el sujeto y el verbo
+9. Tiempo_verbal_prótasis / Tiempo_verbal_apódosis: presente, imperfecto, pretérito perfecto compuesto, condicional, futuro
+En algunos casos hay dos verbos coordinados (no dos oraciones, estas tienen el mismo tiempo verbal) con tiempos distintos; los indico con /
+Cuando son oraciones sin verbo, les corresponde NA
+10. Modo_verbal_prótasis / Modo_verbal_apódosis: indicativo, subjuntivo
+Cuando son oraciones sin verbo, les corresponde NA
+11. Marco_sintáctico_oración:
+	11.1. principal: la oración comparativa correlativa no depende de ninguna otra oración.
+	11.2. relativa: la oración comparativa correlativa  está dentro (conjuntamente) de una relativa.
+	11.3. completiva: la oración comparativa correlativa está dentro (conjuntamente) de una completiva.
+	11.4. causal: la oración comparativa correlativa está dentro (conjuntamente) de una causal.
+	11.5. OD: la oración comparativa correlativa no tiene verbo y funciona (conjuntamente) como un OD.
+	11.6. complemento del nombre: la oración comparativa correlativa no tiene verbo y funciona (conjuntamente) como un complmento del nombre.
+	11.7. completiva_sin_nexo: completiva, pero con sin "que".
+	11.8. SN: la oración comparativa correlativa está fijada y todo junto actúa como un SN.
+	11.9. circunstancial: la oración comparativa correlativa conforma un adjunto oracional.
+12. Intepretación_tanto_cuanto
+	12.1. dinámica: los valores del cuantificador están unidos entre sí, hay lectura de cuantificación (o puede haberla)
+	12.2. estática: no hay lectura de cuantificación, el valor del cuantificador de cada miembro es independiente del del otro miembro.
+
+Categorías nuevas en el CORPES XXI:
+
+13. Con_verbo (solo están analizadas completamente las 13.1 y las 13.3)
+	13.1. con verbo: prótasis y apódosis tienen verbo.
+	13.2. sin verbo: ni prótasis ni apódosis tienen verbo.
+	13.3. parcialmente: o prótasis o apódosis no tienen verbo.
+14. Coordinadas
+	14.1. sí: la prótasis y la apódosis viene unidas por la conjunción "y".
+	14.2. no: la prótasis y la apódosis aparecen yuxtapuestas.
+15. Efectos_contextuales: a veces el uso de la amonesca podría venir justificada por un motivo contextual:
+	15.1. eslogan: la oración comparativa correlativa es un eslogan.
+	15.2. formato lista: la oración comparativa correlativa aparece en una lista de rasgos, que suelen ser más esquemáticos.
+	15.3. paráfrasis: la oración comparativa correlativa explica una correlación que se ha mencionado previamente, lo que puede favorecer la elipsis.
+	15.4. posible elipsis: la oración comparativa correlativa sigue a otra, estándar, por lo que podemos pensar en una elipsis.
+	15.5. titular: la oración comparativa correlativa aparece en un titular, que suelen ser más esquemáticos.
+	15.6. tradición_discursiva: la oración comparativa correlativa es discurso repetido —más o menos abstracto—.
+	15.7. traducción_francés: la oración comparativa correlativa es una traducción directa del francés.

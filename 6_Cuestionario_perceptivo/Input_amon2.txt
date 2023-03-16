@@ -1,0 +1,4 @@
+<id:c25>[Contexto: la siguiente oración se dice en un artículo sobre el comportamiento de otros partidos políticos ante Vox.]
+<id:o25>Tanto pulso político recupera Vox cuanto se enfatiza la beligerancia ante Vox .
+<id:c26>[Contexto: la siguiente oración se dice en un artículo sobre las tertulias políticas en la televisión.]
+<id:o26>Cuanto más se acerca un programa al prime time, más tiende a cruzarse la línea roja del infoespectáculo.
