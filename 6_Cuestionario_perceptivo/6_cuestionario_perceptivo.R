@@ -135,9 +135,11 @@ cuestionario_limpio %>%
        subtitle = "(1 = nada natural; 7 = completamente natural)",
        y = "") +
   theme_bw() +
-  facet_wrap(~ Cuantificadores, scales = "free_x")
+  scale_x_discrete(guide = guide_axis(n.dodge = 2)) +
+  facet_wrap(~ Cuantificadores, scales = "free_x", nrow = 1)
 
-ggsave("naturalidad_cuestionario_amon.png")
+ggsave("naturalidad_cuestionario_amon.png", height = 4, width = 10)
+
 
 #### ¿Hay diferencias según la lengua que hablan? ----
 #No parece (especialmente teniendo en cuenta que los que no hablan inglés, francés o italiano 
@@ -178,6 +180,7 @@ cuestionario_limpio %>%
   scale_fill_manual(values=wes_palette(name="Royal2")[c(5, 1, 4, 3)]) + 
   scale_x_discrete(guide = guide_axis(n.dodge = 2)) +
   theme_bw() +
-  facet_wrap(~ Cuantificadores, scales = "free_x") 
+  facet_wrap(~ Cuantificadores, scales = "free_x") +
+  facet_wrap(~ Cuantificadores, scales = "free_x", nrow = 1)
 
-ggsave("familiaridad_cuestionario_amon.png")
+ggsave("familiaridad_cuestionario_amon.png", height = 4, width = 10)

@@ -118,7 +118,7 @@ modificados %>%
   theme_bw() +
   scale_fill_manual(values=wes_palette(n = 8, "Darjeeling1", type = "continuous"))
 
-ggsave("modificados_prop.png", width = 10, height = 7)
+ggsave("modificados_prop.png", width = 10, height = 4)
 
 ### Orden SV  ----
 #Cada fila será una de las dos oraciones correlativas
